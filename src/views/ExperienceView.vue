@@ -201,7 +201,7 @@
 }
 .timeline-item .row {
   align-items: center;
-}
+}/**
 .timeline-item::before {
   content: '';
   position: absolute;
@@ -213,7 +213,7 @@
   border-radius: 50%;
   transform: translateX(-50%);
   z-index: 1;
-}
+}**/
 .timeline-item:nth-child(odd) .row {
   flex-direction: row-reverse;
 }

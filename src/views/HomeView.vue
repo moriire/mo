@@ -5,12 +5,12 @@
       <img
         class="img-thumbnail img-responsive .w-100 rounded-circle shadow-sm"
         src="/img/profile.jpg"
-        alt="I.B.M. Abdulsalam"
+        alt="Engr I.B.M. Abdulsalam"
         width="220"
       />
      
     </div>
-    <h1 class="display-1" id="rotateChars">I.B.M. Abdulsalam</h1>
+    <h1 class="display-1" id="rotateChars">Engr I.B.M. Abdulsalam</h1>
     <p class="head">Software Engineer</p>
   </div>
   <div class="row justify-content-center mb-4">
